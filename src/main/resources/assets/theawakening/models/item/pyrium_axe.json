@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+        "layer0": "theawakening:items/pyrium_axe"
+    }
+}	

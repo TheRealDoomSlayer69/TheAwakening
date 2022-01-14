@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "theawakening:pyrium_ingot"
+    },
+    "title": "Ouch! that hurts",
+    "description": "Aquire a hellforged Pyrium Ingot",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:nether/obtain_ancient_debris",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "theawakening:pyrium_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

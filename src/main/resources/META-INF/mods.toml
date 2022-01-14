@@ -1,0 +1,17 @@
+
+modLoader="javafml" #mandatory
+loaderVersion="[37,)" 
+license="MIT"
+[[mods]]
+modId="theawakening"
+version="1.17.1-1.0"
+displayName="The Awakening" 
+displayURL="https://theawakening.fandom.com/wiki/The_Awakening_Wiki"
+logoFile="THE-AWAKENING.png" 
+credits="Thanks to TurtyWurty for teaching me and Java for being such a versatile programming language" 
+authors="glorp69"  
+description='''
+When the dragon is slain, portals from the multiverse open. Beings from unimaginable dimensions and powers no man could ever think of, arrive. This is The Awakening
+
+Set on an epic adventure to kill minecraft's greatest threats
+'''
